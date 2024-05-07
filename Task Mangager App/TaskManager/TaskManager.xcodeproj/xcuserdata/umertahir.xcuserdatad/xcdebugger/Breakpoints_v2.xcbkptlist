@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCFE367C-8C66-4FE7-952C-72AF7BEE9018"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7DD23C3-AAC9-486D-A51B-DA7EE797C73B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Rountine/SettingTbc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19E79D71-DD8C-488B-822D-5873FB488D9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Calender/CalanderVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "presentEditingViewForEvent(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DED4DD40-FE76-4173-9F00-3103C39B88AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Task/TaskVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "events(from:to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47B80282-9E15-4E2A-A07B-513E38745243"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "updateStats()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "231AB046-BB2D-40A2-A175-C67B89106E7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "updateTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "231AB046-BB2D-40A2-A175-C67B89106E7B - ca50c854fd09551f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.updateTimer() -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142">
+               </Location>
+               <Location
+                  uuid = "231AB046-BB2D-40A2-A175-C67B89106E7B - ca50c854fd0952fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.updateTimer() -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "startBtnTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5 - 215c9ef868f65791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.settingBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90">
+               </Location>
+               <Location
+                  uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5 - 7793d91f83e1952a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.startBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93">
+               </Location>
+               <Location
+                  uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5 - 7793d91f83e1950d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.startBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92">
+               </Location>
+               <Location
+                  uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5 - 7793d91f83e1954b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.startBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94">
+               </Location>
+               <Location
+                  uuid = "58A66424-F234-4313-9818-C26DAE0DA6F5 - 7793d91f83e1954b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.startBtnTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0704F523-D03F-4371-B060-50DDADD4A7E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "setTimer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0704F523-D03F-4371-B060-50DDADD4A7E9 - 3f1e48711480e83f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.setTimer() -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120">
+               </Location>
+               <Location
+                  uuid = "0704F523-D03F-4371-B060-50DDADD4A7E9 - 3f1e48711480e83f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TaskManager.RoutineVc.setTimer() -&gt; ()"
+                  moduleName = "TaskManager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umertahir/Projects/Freelance/TaskManager/TaskManager/ViewControllers/Rountine/RoutineVc.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
